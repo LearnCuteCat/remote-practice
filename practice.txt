@@ -1,1 +1,2 @@
 This is my Git remote practice file. 
+This line was added directly on GitHub.
